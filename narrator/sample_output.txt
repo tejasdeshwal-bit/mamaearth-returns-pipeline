@@ -1,0 +1,10 @@
+[source: Gemini (gemini-3-flash-preview)]
+
+**Situation**
+Our recent performance review shows a raw total revenue of INR 99,860.20. However, after refining our data to remove inaccuracies, the cleaned total revenue stands at INR 97,358.30. This adjustment ensures our financial reporting reflects actual sales rather than system errors, providing a reliable baseline for our regional operations and financial planning.
+
+**Complication**
+We identified a difference of INR 2,501.90 caused by 5 double-submitted duplicate orders that inflated our initial figures. Furthermore, our growth trends were initially misleading. January 2026 appeared to be our strongest month at INR 29,582.10, but after excluding 2 bulk-order outliers, the corrected figure is INR 11,637.10. This reveals that March 2026 is our true peak revenue month at INR 20,318.90. Additionally, return rates are a major concern for profitability. While Card and UPI returns are manageable at 14.7% and 18.9% respectively, COD returns are significantly higher at 44.4%. The highest-risk segment is COD orders in Tier-2 cities, where the return rate reaches a critical 54.5%.
+
+**Resolution**
+To protect margins, Finance must recalibrate the Q1 budget and inventory planning based on the true March peak of INR 20,318.90 rather than the inflated January figures. Operations should implement a mandatory tele-verification step for all COD orders in Tier-2 cities to specifically address the 54.5% return rate. Finally, Finance must reconcile the INR 2,501.90 discrepancy with the payment gateway to ensure no overpayment of commissions or taxes on the 5 double-submitted orders.
