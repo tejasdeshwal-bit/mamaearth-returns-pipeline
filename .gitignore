@@ -1,7 +1,6 @@
-   venv/
-   .venv/
-   __pycache__/
-   *.pyc
-   .env
-   *.db
-   .ipynb_checkpoints/
+venv/
+__pycache__/
+*.pyc
+.env
+*.db
+.ipynb_checkpoints/
